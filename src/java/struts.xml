@@ -1,0 +1,20 @@
+<!DOCTYPE struts PUBLIC
+"-//Apache Software Foundation//DTD Struts Configuration 2.0//EN"
+"http://struts.apache.org/dtds/struts-2.0.dtd">
+
+<struts>
+    <include file="example.xml"/>
+    <!-- Configuration for the default package. -->
+    <package name="default" extends="struts-default">
+        <action name="LoginAction" class="onps.action.LoginAction">
+            <result name="asuccess">adminpanel.jsp</result>
+            <result name="vsuccess">voterpanel.jsp</result>
+            <result name="csuccess">canpanel.jsp</result>
+            <result name="error">LoginError.jsp</result>
+        </action>
+        <action name="RegisterAction" class="onps.action.RegisterAction">
+            <result name="success">RegisterSuccess.jsp</result>
+            <result name="error">RegisterError.jsp</result>
+        </action>
+    </package>
+</struts>
