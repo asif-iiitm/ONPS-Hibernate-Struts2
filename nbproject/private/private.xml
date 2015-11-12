@@ -3,16 +3,15 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/uchiha/Documents/NetBeansProjects/ONPS-Hibernate-Struts2/web/login.jsp</file>
-            <file>file:/C:/Users/uchiha/Documents/NetBeansProjects/ONPS-Hibernate-Struts2/src/java/onps/entity/Users.java</file>
+            <file>file:/C:/Users/uchiha/Documents/NetBeansProjects/ONPS-Hibernate-Struts2/web/delete.jsp</file>
+            <file>file:/C:/Users/uchiha/Documents/NetBeansProjects/ONPS-Hibernate-Struts2/web/CandidatePanel.jsp</file>
+            <file>file:/C:/Users/uchiha/Documents/NetBeansProjects/ONPS-Hibernate-Struts2/web/RegisterError.jsp</file>
             <file>file:/C:/Users/uchiha/Documents/NetBeansProjects/ONPS-Hibernate-Struts2/src/java/onps/entity/Voters.java</file>
-            <file>file:/C:/Users/uchiha/Documents/NetBeansProjects/ONPS-Hibernate-Struts2/web/register.jsp</file>
-            <file>file:/C:/Users/uchiha/Documents/NetBeansProjects/ONPS-Hibernate-Struts2/src/java/onps/entity/Candidates.java</file>
-            <file>file:/C:/Users/uchiha/Documents/NetBeansProjects/ONPS-Hibernate-Struts2/src/java/onps/entity/Admin.java</file>
-            <file>file:/C:/Users/uchiha/Documents/NetBeansProjects/ONPS-Hibernate-Struts2/web/WEB-INF/web.xml</file>
-            <file>file:/C:/Users/uchiha/Documents/NetBeansProjects/ONPS-Hibernate-Struts2/src/java/onps/action/RegisterAction.java</file>
-            <file>file:/C:/Users/uchiha/Documents/NetBeansProjects/ONPS-Hibernate-Struts2/src/java/onps/util/TableCreater.java</file>
-            <file>file:/C:/Users/uchiha/Documents/NetBeansProjects/ONPS-Hibernate-Struts2/web/register_candidate.jsp</file>
+            <file>file:/C:/Users/uchiha/Documents/NetBeansProjects/ONPS-Hibernate-Struts2/src/java/onps/action/LoginAction.java</file>
+            <file>file:/C:/Users/uchiha/Documents/NetBeansProjects/ONPS-Hibernate-Struts2/web/AdminPanel.jsp</file>
+            <file>file:/C:/Users/uchiha/Documents/NetBeansProjects/ONPS-Hibernate-Struts2/src/java/struts.xml</file>
+            <file>file:/C:/Users/uchiha/Documents/NetBeansProjects/ONPS-Hibernate-Struts2/web/VoterPanel.jsp</file>
+            <file>file:/C:/Users/uchiha/Documents/NetBeansProjects/ONPS-Hibernate-Struts2/web/RegisterSuccess.jsp</file>
         </group>
     </open-files>
 </project-private>

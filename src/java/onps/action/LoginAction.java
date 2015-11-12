@@ -79,7 +79,7 @@ public class LoginAction extends ActionSupport implements SessionAware {
             if(r.equals("Admin"))
             {
             session = ActionContext.getContext().getSession();
-            session.put("logined", "true");
+            session.put("adminlog", "true");
             session.put("user", userid);
             session.put("r", r);
             return "asuccess";
@@ -87,7 +87,7 @@ public class LoginAction extends ActionSupport implements SessionAware {
             else if(r.equals("Voter"))
             {
             session = ActionContext.getContext().getSession();
-            session.put("logined", "true");
+            session.put("voterlog", "true");
             session.put("user", userid);
             session.put("r", r);
             return "vsuccess";
@@ -95,7 +95,7 @@ public class LoginAction extends ActionSupport implements SessionAware {
             else 
             {
             session = ActionContext.getContext().getSession();
-            session.put("logined", "true");
+            session.put("canlog", "true");
             session.put("user", userid);
             session.put("r", r);
             return "csuccess";

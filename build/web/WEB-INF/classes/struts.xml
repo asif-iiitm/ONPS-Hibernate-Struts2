@@ -7,9 +7,9 @@
     <!-- Configuration for the default package. -->
     <package name="default" extends="struts-default">
         <action name="LoginAction" class="onps.action.LoginAction">
-            <result name="asuccess">adminpanel.jsp</result>
-            <result name="vsuccess">voterpanel.jsp</result>
-            <result name="csuccess">canpanel.jsp</result>
+            <result name="asuccess">AdminPanel.jsp</result>
+            <result name="vsuccess">VoterPanel.jsp</result>
+            <result name="csuccess">CandidatePanel.jsp</result>
             <result name="error">LoginError.jsp</result>
         </action>
         <action name="RegisterAction" class="onps.action.RegisterAction">
